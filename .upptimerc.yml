@@ -14,7 +14,7 @@ sites:
     url: https://splat00n.ink/api/v1/accounts/lookup?acct=admin
     __dangerous__body_down_if_text_missing: '110212030595971207'
   - name: Splat00n.Ink ActivityPub
-    url: https://splat00n.ink/.well-known/webfinger?resource=acct:support@maratang.life
+    url: https://splat00n.ink/.well-known/webfinger?resource=acct:admin@splat00n.ink
     __dangerous__body_down_if_text_missing: 'application/activity+json'
   - name: Splat00n.Ink Storage
     url: https://r2.maratang.life/check.txt
