@@ -1,40 +1,40 @@
-owner: MaratangLife
-repo: status
+owner: Lastorder-DC
+repo: splat00n_ink
 
 sites:
-  - name: Maratang.Life Main
-    url: https://maratang.life/about
-  - name: Maratang.Life API
-    url: https://maratang.life/api/v2/instance
+  - name: Splat00n.Ink Main
+    url: https://splat00n.ink/about
+  - name: Splat00n.Ink API
+    url: https://splat00n.ink/api/v2/instance
     __dangerous__body_down_if_text_missing: '"version"'
-  - name: Maratang.Life Streaming
-    url: https://maratang.life/api/v1/streaming/health
+  - name: Splat00n.Ink Streaming
+    url: https://splat00n.ink/api/v1/streaming/health
     __dangerous__body_down_if_text_missing: 'OK'
-  - name: Maratang.Life User
-    url: https://maratang.life/api/v1/accounts/lookup?acct=support
-    __dangerous__body_down_if_text_missing: '109325599682453662'
-  - name: Maratang.Life ActivityPub
-    url: https://maratang.life/.well-known/webfinger?resource=acct:support@maratang.life
+  - name: Splat00n.Ink User
+    url: https://splat00n.ink/api/v1/accounts/lookup?acct=admin
+    __dangerous__body_down_if_text_missing: '110212030595971207'
+  - name: Splat00n.Ink ActivityPub
+    url: https://splat00n.ink/.well-known/webfinger?resource=acct:support@maratang.life
     __dangerous__body_down_if_text_missing: 'application/activity+json'
-  - name: Maratang.Life Storage
+  - name: Splat00n.Ink Storage
     url: https://r2.maratang.life/check.txt
-    icon: https://maratang.life/favicon.ico
+    icon: https://splat00n.ink/favicon.ico
     __dangerous__body_down_if_text_missing: 'OK'
 
 status-website:
-  cname: status.maratang.life
+  cname: status.splat00n.ink
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: 마라탕.인생 서버 상태
-  introTitle: "마라탕.인생 서버 상태"
-  introMessage: 마라탕.인생 서버 상태를 실시간으로 확인하실 수 있습니다.
+  name: Splat00n.Ink 서버 상태
+  introTitle: "Splat00n.Ink 서버 상태"
+  introMessage: Splat00n.Ink 서버 상태를 실시간으로 확인하실 수 있습니다.
   navbar:
     - title: 상태 페이지
       href: /
-    - title: 마라탕.인생
-      href: https://maratang.life/
+    - title: Splat00n.Ink
+      href: https://splat00n.ink/
 
 robotsText: "User-agent: * \n Disallow: /"
-user-agent: MaratangLife-Uptime-Checker/1.0.230417.0
+user-agent: Splat00nInk-Uptime-Checker/1.0.230417.0
 i18n:
   activeIncidents: 진행중인 장애
   allSystemsOperational: 모든 시스템 정상
