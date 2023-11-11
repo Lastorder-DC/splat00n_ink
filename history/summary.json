@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/splat00n.ink.ico",
     "slug": "splat00n-ink-streaming",
     "status": "up",
-    "uptime": "85.14%",
+    "uptime": "85.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "79.98%",
-    "uptimeYear": "85.14%",
+    "uptimeYear": "85.33%",
     "time": 173,
     "timeDay": 131,
     "timeWeek": 170,
@@ -102,7 +102,7 @@
     "url": "https://r2.maratang.life/check.txt",
     "icon": "https://splat00n.ink/favicon.ico",
     "slug": "splat00n-ink-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -113,6 +113,8 @@
     "timeWeek": 596,
     "timeMonth": 688,
     "timeYear": 690,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 0
+    }
   }
 ]
