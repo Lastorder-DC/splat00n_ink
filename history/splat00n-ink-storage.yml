@@ -1,7 +1,7 @@
 url: https://r2.maratang.life/check.txt
-status: up
-code: 200
-responseTime: 1307
-lastUpdated: 2024-02-14T23:03:19.082Z
+status: down
+code: 500
+responseTime: 357
+lastUpdated: 2024-02-15T15:50:15.490Z
 startTime: 2023-10-01T00:43:38.948Z
 generator: Upptime <https://github.com/upptime/upptime>
