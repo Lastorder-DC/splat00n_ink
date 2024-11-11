@@ -133,9 +133,9 @@
     "url": "https://r2.maratang.life/check.txt",
     "icon": "https://splat00n.ink/favicon.ico",
     "slug": "splat00n-ink-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
@@ -145,6 +145,7 @@
     "timeMonth": 510,
     "timeYear": 707,
     "dailyMinutesDown": {
+      "2024-11-11": 0,
       "2024-02-28": 45,
       "2023-11-13": 694
     }
