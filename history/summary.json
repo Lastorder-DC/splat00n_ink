@@ -133,21 +133,21 @@
     "url": "https://r2.maratang.life/check.txt",
     "icon": "https://splat00n.ink/favicon.ico",
     "slug": "splat00n-ink-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "88.86%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.55%",
+    "uptimeDay": "89.24%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.56%",
     "time": 695,
-    "timeDay": 621,
-    "timeWeek": 608,
+    "timeDay": 620,
+    "timeWeek": 607,
     "timeMonth": 586,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2024-11-11": 160,
-      "2024-02-28": 45,
-      "2023-11-13": 694
+      "2024-11-12": 0,
+      "2024-11-11": 154,
+      "2024-02-28": 45
     }
   }
 ]
