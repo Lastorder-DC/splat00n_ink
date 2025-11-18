@@ -1,7 +1,7 @@
 url: https://splat00n.ink/api/v2/instance
-status: up
-code: 200
-responseTime: 163
-lastUpdated: 2025-11-18T12:15:18.371Z
+status: down
+code: 500
+responseTime: 8
+lastUpdated: 2025-11-18T12:49:45.756Z
 startTime: 2023-10-01T00:43:35.008Z
 generator: Upptime <https://github.com/upptime/upptime>
