@@ -1,7 +1,7 @@
 url: https://splat00n.ink/api/v1/streaming/health
-status: down
-code: 522
-responseTime: 19396
-lastUpdated: 2026-02-27T12:17:02.852Z
+status: up
+code: 200
+responseTime: 187
+lastUpdated: 2026-02-27T12:29:24.979Z
 startTime: 2023-10-01T00:43:35.748Z
 generator: Upptime <https://github.com/upptime/upptime>
