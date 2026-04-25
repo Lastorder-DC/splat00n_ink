@@ -1,7 +1,7 @@
 url: https://splat00n.ink/api/v1/accounts/lookup?acct=admin
-status: down
-code: 522
-responseTime: 19775
-lastUpdated: 2026-04-25T01:41:31.850Z
+status: up
+code: 200
+responseTime: 218
+lastUpdated: 2026-04-25T02:32:02.369Z
 startTime: 2023-10-01T00:43:36.461Z
 generator: Upptime <https://github.com/upptime/upptime>
