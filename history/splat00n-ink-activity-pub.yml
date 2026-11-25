@@ -1,7 +1,7 @@
 url: https://splat00n.ink/.well-known/webfinger?resource=acct:admin@splat00n.ink
-status: down
-code: 523
-responseTime: 2286
-lastUpdated: 2026-11-25T05:14:41.980Z
+status: up
+code: 200
+responseTime: 239
+lastUpdated: 2026-11-25T14:44:30.644Z
 startTime: 2023-10-01T00:43:37.217Z
 generator: Upptime <https://github.com/upptime/upptime>
