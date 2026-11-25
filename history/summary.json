@@ -6,12 +6,12 @@
     "slug": "splat00n-ink-main",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
+    "uptimeDay": "91.75%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 1359,
-    "timeDay": 1620,
+    "timeDay": 2287,
     "timeWeek": 1113,
     "timeMonth": 1014,
     "timeYear": 1326,
@@ -24,7 +24,7 @@
       "2026-05-03": 87,
       "2026-07-20": 311,
       "2026-08-02": 279,
-      "2026-11-25": 2
+      "2026-11-25": 119
     }
   },
   {
@@ -34,12 +34,12 @@
     "slug": "splat00n-ink-api",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
+    "uptimeDay": "91.78%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 823,
-    "timeDay": 1506,
+    "timeDay": 2270,
     "timeWeek": 754,
     "timeMonth": 714,
     "timeYear": 845,
@@ -52,7 +52,7 @@
       "2026-05-03": 86,
       "2026-07-20": 310,
       "2026-08-02": 278,
-      "2026-11-25": 2
+      "2026-11-25": 118
     }
   },
   {
@@ -61,13 +61,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/splat00n.ink.ico",
     "slug": "splat00n-ink-streaming",
     "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
+    "uptime": "98.92%",
+    "uptimeDay": "91.81%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 779,
-    "timeDay": 1390,
+    "timeDay": 2276,
     "timeWeek": 613,
     "timeMonth": 489,
     "timeYear": 814,
@@ -80,7 +80,7 @@
       "2026-05-03": 85,
       "2026-07-20": 309,
       "2026-08-02": 277,
-      "2026-11-25": 1
+      "2026-11-25": 118
     }
   },
   {
@@ -89,13 +89,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/splat00n.ink.ico",
     "slug": "splat00n-ink-user",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.72%",
+    "uptimeDay": "91.83%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 750,
-    "timeDay": 1397,
+    "timeDay": 2274,
     "timeWeek": 706,
     "timeMonth": 507,
     "timeYear": 760,
@@ -108,7 +108,7 @@
       "2026-05-03": 84,
       "2026-07-20": 307,
       "2026-08-02": 276,
-      "2026-11-25": 1
+      "2026-11-25": 118
     }
   },
   {
@@ -117,13 +117,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/splat00n.ink.ico",
     "slug": "splat00n-ink-activity-pub",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.72%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 749,
-    "timeDay": 1380,
+    "timeDay": 2286,
     "timeWeek": 602,
     "timeMonth": 505,
     "timeYear": 775,
@@ -136,7 +136,7 @@
       "2026-05-03": 83,
       "2026-07-20": 306,
       "2026-08-02": 274,
-      "2026-11-25": 1
+      "2026-11-25": 117
     }
   },
   {
@@ -145,11 +145,11 @@
     "icon": "https://splat00n.ink/favicon.ico",
     "slug": "splat00n-ink-storage",
     "status": "down",
-    "uptime": "98.42%",
+    "uptime": "98.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.54%",
-    "uptimeYear": "96.29%",
+    "uptimeMonth": "55.27%",
+    "uptimeYear": "96.27%",
     "time": 519,
     "timeDay": 0,
     "timeWeek": 0,
@@ -157,7 +157,7 @@
     "timeYear": 515,
     "dailyMinutesDown": {
       "2026-03-16": 38,
-      "2026-11-25": 315,
+      "2026-11-25": 432,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
